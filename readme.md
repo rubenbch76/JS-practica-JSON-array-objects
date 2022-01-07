@@ -1,0 +1,1 @@
+Los navegadores no permiten hacer fetch a un archivo local. Usar liveserver de Visual Code para ver el resultado de este ejercicio.
